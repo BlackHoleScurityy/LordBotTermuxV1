@@ -1,6 +1,6 @@
 ### I'm LORD Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img src="https://raw.githubusercontent.com/SangLord/SangLord/main/banner.jpg"></a>
+<a href="https://github.com/SangLord"><img src="https://raw.githubusercontent.com/SangLord/SangLord/main/banner.jpg"></a>
 </p>
 <br>
 
@@ -22,10 +22,7 @@
 
 <p align="center">
     <a href="https://github.com/SangLord"><img title="Paritsod" src="https://avatars.githubusercontent.com/u/75057738?s=460&u=c7d37d13fdb8977a4474bf743a87a7f39c00dc4b&v=4" width="128"></a>
-    <a href="https://github.com/Fxc7"><img title="Paritsod" src="https://avatars.githubusercontent.com/u/74123134?s=460&u=b46fc7480075ccc529e483a1d9522659a98666d4&v=4" width="128"></a>
-    <a href="https://github.com/FdhlGraphy"><img title="Paritsod" src="https://avatars.githubusercontent.com/u/75799657?s=460&u=f5074ff04c8472c59ad2670c0d25b06bc5e9c6f3&v=4" width="128"></a>
-</p>
-
+   
 ## SOSMED
 
 <p align="center">
