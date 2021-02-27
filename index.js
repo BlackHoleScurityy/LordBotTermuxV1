@@ -517,7 +517,6 @@ async function starts() {
 			case 'help':
 			case 'menu':
 			if (isBanned) return reply(mess.only.benned)
-			if (!isPublic) return reply(mess.only.publikG)
 				if (!isUser) return reply(mess.only.userB)
 				uptime = process.uptime()
 				user.push(sender)
